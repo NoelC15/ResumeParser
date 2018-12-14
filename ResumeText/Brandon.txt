@@ -1,0 +1,71 @@
+Brandon Sloan  
+
+3001 Communications Pkwy Apt. 2224, Plano, TX, 75093 | (423)765-5775 | brandon.sloan@wipro.com 
+
+Education 
+BS IN COMPUTER SCIENCE | MAY 2018 | UNIVERSITY OF TENNESSEE - KNOXVILLE 
+·  Major: Computer Science 
+·  CS365 Databases – SQL, mySQL 
+·  CS462 Parallel Computing – openMP, openMPI, openCL 
+·  CS401/402 Senior Design – Football Passing Trainer for University Football Program in C# and Python  
+
+Skills & Abilities 
+TECHNOLOGIES 
+·  Hadoop, Snowflake, Linux, Windows 
+
+LANGUAGES 
+·  C, C++, C#, Java 
+·  Python 
+·  SQL, PL/SQL 
+
+TRAINING 
+·  OOPS - Using Java, created class hierarchy to showcase polymorphism and inheritance.  Multithreaded 
+
+programming used to improve run times.  Java packages to encase logically related classes and improve 
+code reusability. 
+
+·  RDBMS - MySQL and PL/SQL to create, alter, and drop tables.  Complex queries using multiple joins and 
+
+aggregate functions. 
+
+·  Hadoop – Practice MapReduce concepts.  Load SQL data into Hadoop environment using Sqoop.  Run 
+
+SQL based queries on imported tables using Hive.  Transfer into HBase to learn NoSQL concepts.  
+Finally use pig to create functions mimicking SQL queries. 
+
+·  Spark – Use Scala for highly optimized programs in the Spark environment. 
+
+Experience 
+PROJECT ENGINEER | WIPRO  LIMITED | AUGUST 2018 – PRESENT 
+
+ 
+
+ 
+
+Fast Paced training environment with focus on self-teaching with supplemental lectures. 
+Small team programming in Java and SQL to reinforce concepts and develop small scale programs. 
+
+LEAD PROGRAMMER | TEAM 17 | AUGUST 2017 – MAY 2018 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Developed passing trainer robot to be used by University of Tennessee football team.  
+Gather and analyze player data to create unique player profiles. 
+Use C# to program Raspberry Pi with Arduino which ran pulley system mimicking players. 
+User-friendly GUI development using Python for ease of integration with staff members. 
+Agile software development with weekly customer meetings. 
+ 
+
+Sensitiv ity: Internal & Restricted 
+
+ 
+
+

@@ -1,0 +1,67 @@
+ 
+
+Noel Castillo 
+
+2003 Mary St, Carrollton TX, 75006, 214.290.5723, noel.castillo@wipro.com 
+
+Education 
+Loyola University Chicago,  Graduated August 2018 
+Bachelor of Science (B.S.) in Computer Science 
+GPA: 3.4 
+ 
+ 
+Relevant Experience  
+Wipro, Plano, TX, August 2018 – Present  
+IT Engineer 
+
+  One week of SQL training comprising of DDL and DML commands.  
+  One week of Java  comprising of encapsulation, polymorphism, data structures, and 
+
+multithreading. 
+
+  Two weeks of Hadoop comprising of Sqoop, Hive, Spark, Map Reduce, and YARN. 
+
+ 
+A ndroid App Independent Study, Chicago, IL, August 2017 – May 2018  
+Student Researcher 
+
+  Analyze code and understand its implementations 
+  Utilize java  to repair bugs in code in order to develop a functioning App that will moderate a 
+
+conversation between a group of people 
+
+ 
+First Year Research Experience (FYRE), Chicago, IL, June 2017  
+Student Research Assistant  
+
+  Collected data using accelerometers 
+  Analyzed and identified any bugs within the code  
+  Suggested ways to help improve code using Python 
+  Summarized data and created poster to illustrate process of the project 
+  Provided explanations on how project worked to student and faculty in FYRE organization    
+
+ 
+Independent Projects 
+Pokémon game in Java (2017). Player and computer each pick a Pokémon. The player and the 
+computer then ask each other question to obtain clues. First one to guess opponents Pokémon wins. 
+
+Keyboard speed Game in Java (2016). Designed to help user improve typing speed. 
+
+Computer Skills 
+Languages: Java, Python, Swift, Scala, JavaScript, HTML, SQL, Hadoop 
+ 
+Work Experience  
+Loyola University Chicago, Chicago, IL, August 2017 -Present 
+Resident Assistant 
+
+In charge of taking care of 300 plus residents in residence hall  
+
+ 
+  Assistance residents with conflicts  
+  Participate  in team  meetings in order to organize and plan  events for residents 
+
+ 
+
+Sensitiv ity: Internal & Restricted 
+
+

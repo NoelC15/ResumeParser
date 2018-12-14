@@ -1,0 +1,180 @@
+Plano,Tx   |      Susarla.kirthi@gmail.com      |     2146324134   |        Authorization: Permanent Resident 
+
+SRI KIRTHI SUSARLA 
+
+ 
+
+EDUCATION: 
+THE UNIVERSITY OF TEXAS AT DALLAS, Richardson, Texas, USA                                                                         
+Master of Science in Telecommunications Engineering.    
+Gandhi Institute of Technology and Management, Visakhapatnam, India                                                              
+Bachelor of Technology in Electronics and Communication Engineering.   
+
+    
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+                             May 2018 
+   
+                                            GPA:  3.46 
+             April 2016 
+
+           GPA : 4 
+
+   
+   
+
+                                   August 2018- Present 
+
+ 
+CERTIFICATION:   CCNA (Routing and Switching)            CISCO ID: CSCO13298960 
+ 
+TECHNICAL  SKILLS: 
+Programming Languages:  C, Java, Python 
+Protocols: OSPF, BGP, RIP, TCP/IP, UDP, IPsec, EIGRP, VOIP, RTP, DHCP, SSH, SSL, DNS, FTP, HTTP, ICMP, firewalls. 
+Tools: Wireshark, Cisco Packet Tracer, GNS3, Virtual Box, VM ware. 
+Cloud technologies: AWS, Open Stack. 
+Operating Systems:  Windows, Linux, UNIX. 
+ 
+WORK EXPERIENCE: 
+Wipro 
+PROJECT ENGINEER                                                                         
+
+ 
+
+ 
+
+ 
+
+ 
+Trained in Oracle SQL language and worked with DML,DDL and TCL commands. 
+Trained in Relational DBMS concepts. 
+
+• 
+• 
+•  Wrote structured queries in SQL and PL-SQL for given databases. 
+• 
+• 
+
+ 
+
+Trained in JAVA and OOPS concepts 
+Trained in Hadoop and worked with tools like Pig, HIVE, HBase, Sqoop Spark and MapReduce and performed some hands on assignments to 
+get familiar with the syntax and commands. 
+Learned about AGILE methodologies 
+
+• 
+•  Got familiarized with concepts in HDFS architecture and Linux commands. 
+
+SUMMER INTERN: The Defense Research and Development Organization at Hyderabad, INDIA    
+                         May 2015-July 2015  
+Designed a Monolithic Tangent Ogive Radome using MATLAB and designed a GUI for the same. The main aim was to optimize the des ign by obtaining 
+minimum aerodynamic drag. 
+
+   
+
+ 
+ACADEMIC PROJECTS: 
+IOT Node programming: Using Core JAVA  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+      Spring 2018 
+
+•  Developed a communication protocol using TCP/IP socket programming to implement communication between fog nodes (servers) on 
+
+distributed systems which acts as a layer before interacting with cloud. 
+
+Integrated DDOS and TTL Attack on the Domain Name System (DNS) – Using C, Virtual Box, Wireshark, LINUX                                      Spring 2017 
+
+• 
+
+Configured DNS Server, Attacked system, host system. Poisoned the DNS cache by spoofing the IP address to redirect the u ser to a malicious 
+webpage and also changed the TTL value. We used Wireshark to sniff and examine the DNS Response packet. 
+
+IP Mobility Support – Using Core Java: Socket Programming     
+
+   
+
+   
+
+   
+
+   
+
+                                              Spring 2017 
+
+• 
+
+Created a client socket and server socket to connect to a remote host, send and receive data, close a connection, bind to a p ort, listen to 
+incoming data, accept remote connections to port. The Mobile IP protocol was designed and implemented. 
+
+Improving the quality of security in SDN using Floodlight Controller-Using Wireshark, Mininet, VMware, Java 
+
+ 
+
+ 
+
+  Fall 2016 
+
+•  Used the method of deep packet inspection which is performed as a firewall feature to manage and avoid the malicious traffic, thus ensuring 
+
+the security of the packet flow. 
+
+Batch Processor – Using Core Java and XML    
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+                   Fall 2016 
+
+•  Developed Java based parsing code for processing the XML files directly into existing hierarchy of Java domain objects. The XML 
+
+files contain commands, which execute as a process and communicate using files or pipes. 
+
+ 
+
+
